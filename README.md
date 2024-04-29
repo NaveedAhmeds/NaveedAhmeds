@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 About Me<br>Welcome to my Git repository! Here you'll find a collection of projects and code snippets that reflect my interests, skills, and journey as a developer.<br><br>🧑‍💻 Who Am I?<br>I'm Naveed, a computer science student passionate about learning new technologies and their implementations. With an experience in web development, I've had the opportunity to work on diverse projects and collaborate with talented individuals.<br><br>🚀 What Do I Do?<br>My expertise lies in programming, where I enjoy coding possibilities into reality. Whether it's developing web applications, diving into data analysis, or experimenting with machine learning models, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>💼 What Can You Expect from This Repository?<br>In this repository, you'll find a variety of projects and code samples that showcase my skills and interests. From beginner-friendly tutorials to more advanced implementations, there's something here for developers of all levels.<br><br>📞 Get in Touch<br>I'm always eager to connect with fellow developers and enthusiasts! Whether you have a question about one of my projects or just want to chat about technology, feel free to reach out to me, I probably will take some time to reply to you but I can ensure you that I will surely do so anyways, here's my email syednaveed2006@gmail.com.<br><br>Thanks for stopping by, and happy coding!
+
 
 
 ## 🌐 Socials:
@@ -12,12 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NaveedAhmeds&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveedAhmeds&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NaveedAhmeds&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+# 💫 About Me:
+👋 About Me<br>Welcome to my Git repository! Here you'll find a collection of projects and code snippets that reflect my interests, skills, and journey as a developer.<br><br>🧑‍💻 Who Am I?<br>I'm Naveed, a computer science student passionate about learning new technologies and their implementations. With an experience in web development, I've had the opportunity to work on diverse projects and collaborate with talented individuals.<br><br>🚀 What Do I Do?<br>My expertise lies in programming, where I enjoy coding possibilities into reality. Whether it's developing web applications, diving into data analysis, or experimenting with machine learning models, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>💼 What Can You Expect from This Repository?<br>In this repository, you'll find a variety of projects and code samples that showcase my skills and interests. From beginner-friendly tutorials to more advanced implementations, there's something here for developers of all levels.<br><br>📞 Get in Touch<br>I'm always eager to connect with fellow developers and enthusiasts! Whether you have a question about one of my projects or just want to chat about technology, feel free to reach out to me, I probably will take some time to reply to you but I can ensure you that I will surely do so anyways, here's my email syednaveed2006@gmail.com.<br><br>Thanks for stopping by, and happy coding!
 ---
 [![](https://visitcount.itsvg.in/api?id=NaveedAhmeds&icon=1&color=0)](https://visitcount.itsvg.in)
 
