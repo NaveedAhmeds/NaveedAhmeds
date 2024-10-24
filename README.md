@@ -3,17 +3,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveed+Ahmed+Syed!;Aspiring+Software+Developer..." />
 </h1>
-
 <h3 align="center">A passionate computer science student from Canada 🇨🇦</h3>
 
 <br/>
 
-  <p>
- 💫 About Me:
-👋 I'm Naveed, a computer science student passionate about learning new technologies and their implementations. With an experience in web development, I've had the opportunity to work on diverse projects and collaborate with talented individuals.<br><br>🚀 What Do I Do?<br>My expertise lies in programming, where I enjoy coding possibilities into reality. Whether it's developing web applications, diving into data analysis, or experimenting with machine learning models, I'm constantly exploring new technologies and pushing the boundaries of what's possible.
-  </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on learning new technologies
+ 
+ 🌱 I’m currently learning Python, Cloud technologies, AI and ML
 
-
+ </div>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dangergamer.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flynn.5146) 
 
