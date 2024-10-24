@@ -27,7 +27,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,c++,java,nextjs,mysql,flask" /><br>
 </div>
 
-# 💻 Tech Stack:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NaveedAhmeds&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NaveedAhmeds&theme=nightowl&hide_border=false)<br/>
