@@ -1,10 +1,13 @@
 <div>
-  
-## Naveed
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&random=false&width=435&lines=CS+Student;Tech+Enthusiast;IoT+Practioner;Aspiring+Software+Engineer" alt="Typing SVG" /></a>
-  </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveed+Ahmed+Syed!;" />
+</h1>
+
+<h3 align="center">A passionate computer science student from Canada 🇨🇦</h3>
+
+<br/>
 
   <p>
  💫 About Me:
