@@ -22,9 +22,8 @@
 ## 🌐 Connect with Me  
 <div align="center">
   <a href="https://discord.gg/dangergamer."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/flynn.5146"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:naveedahmedsyed5146@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/naveedahmedsyed/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:syednaveed2006@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/naveed-ahmed-syed-17862132a"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
@@ -50,7 +49,7 @@ From **wireframes** to **fully functional products**, my work balances **aesthet
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,flask" />
 
 **Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,r" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,c++,c#,rust" />
 
 **Tools & Workflow:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
