@@ -49,7 +49,7 @@ From **wireframes** to **fully functional products**, my work balances **aesthet
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,flask" />
 
 **Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,c++,c#,rust" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,c" />
 
 **Tools & Workflow:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
