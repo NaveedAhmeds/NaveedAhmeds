@@ -7,12 +7,12 @@
 
 ---
 
-<!-- About Section -->
+## 💼 About Me
 <div align="center">
 
-💼 **UI/UX Developer & Aspiring Software Engineer**  
-🎯 Passionate about blending **design and code** to create experiences that people love  
-🚀 Currently diving deep into **Python, AI/ML, Cloud Technologies, and Next.js**  
+**UI/UX Developer & Aspiring Software Engineer**  
+🎯 Passionate about blending **design and code** to create experiences people love  
+🚀 Currently exploring **Python, AI/ML, Cloud Technologies, and Next.js**  
 💡 Goal: Deliver **aesthetic + functional** web and app solutions that *just feel right*  
 
 </div>
@@ -21,9 +21,9 @@
 
 ## 🌐 Connect with Me  
 <div align="center">
-  <a href="https://discord.gg/dangergamer."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/dangergamer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:syednaveed2006@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/naveed-ahmed-syed-17862132a"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/naveed-ahmed-syed-17862132a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
@@ -37,19 +37,21 @@ From **wireframes** to **fully functional products**, my work balances **aesthet
 **Design Toolbox:**  
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,tailwind,bootstrap,mui" />
 
+</div>
+
 ---
 
 ## ⚒️ Tech Stack
 <div align="center">
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" />
 
 **Backend & Databases:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,flask" />
 
 **Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,c" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c" />
 
 **Tools & Workflow:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -80,11 +82,11 @@ From **wireframes** to **fully functional products**, my work balances **aesthet
 
 ---
 
-<!-- Footer -->
+## 📬 Let’s Connect
 <div align="center">
-  
+
 💬 Let’s build something *beautiful and functional*.  
-📩 Reach out — my inbox is always open.  
+📩 My inbox is always open — say hi!  
 
 💡 *"Design is intelligence made visible."* – Alina Wheeler  
 
