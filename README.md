@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Naveed+Ahmed+Syed!;UI/UX+Designer+%26+Software+Developer;Turning+Ideas+Into+Pixel-Perfect+Reality..." />
 </h1>
 
-<h3 align="center">🎨 Designing experiences. 💻 Building solutions.</h3>
-
 ---
 
 ## 💼 About Me
