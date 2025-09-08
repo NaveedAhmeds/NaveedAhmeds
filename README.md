@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Naveed+Ahmed+Syed!;UI/UX+Designer+%26+Software+Developer;Turning+Ideas+Into+Pixel-Perfect+Reality..." />
 </h1>
 ---
-## 🖌️ UI/UX Showcase
-<div align="center">
-
-I design **beautiful, intuitive, and responsive** interfaces with a focus on **user-first experiences**.  
-From **wireframes** to **fully functional products**, my work balances **aesthetics & performance**.
-
 **Design Toolbox:**  
 <div>
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,tailwind,bootstrap,mui" height="40" style="margin:5px;" title="Figma/Adobe/XD/Frameworks"/>
