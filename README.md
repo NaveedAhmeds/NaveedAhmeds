@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=58A6FF&lines=Hi+There!+👋;I'm+Naveed!;UI/UX+Designer+%26+Software+Developer;Turning+Ideas+Into+Pixel-Perfect+Reality..." alt="Typing Animation"/>
 </h1>
 
-<!-- 🎨 Design Toolbox -->
-<h2 align="center">Design Toolbox</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,tailwind,bootstrap,mui" height="40" title="Figma, Adobe XD, Photoshop, Illustrator, Tailwind, Bootstrap, MUI" />
-</p>
-
 <!-- 🛠 Tech Stack -->
 <h2 align="center">Tech Stack</h2>
 <div align="center">
