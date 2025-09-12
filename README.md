@@ -22,12 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c" height="50" title="Python, JavaScript, TypeScript, Java, C"/>
 </p>
 
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" title="Git, GitHub, VS Code, Postman"/>
-</p>
-</div>
-
 <!-- 📊 GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
