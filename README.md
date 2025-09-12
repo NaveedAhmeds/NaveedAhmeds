@@ -29,7 +29,7 @@
 
 ### Programming & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,c,cpp,python,java,javascript" height="50"/>
 </p>
 
 </div>
