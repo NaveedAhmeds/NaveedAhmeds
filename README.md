@@ -41,7 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaveedAhmeds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveedAhmeds&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveedAhmeds&theme=tokyonight&layout=compact&hide_border=true" height="180px"/>
 </div>
 
 <!-- 🌀 Footer Animation -->
