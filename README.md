@@ -22,11 +22,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" height="50"/>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,flask" height="50"/>
-</p>
-
 ### Programming & AI
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,c,cpp,python,java,javascript" height="50"/>
