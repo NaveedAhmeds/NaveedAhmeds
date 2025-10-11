@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&color=58A6FF&lines=Software+Engineer+%26+AI+Enthusiast;Building+Intelligent+Digital+Experiences..." alt="Typing Animation"/>
 </h1>
 
-<!-- 🛠 Tech Stack -->
-<h2 align="center">Tech Stack</h2>
-<div align="center">
 
 ### Frontend
 <p>
