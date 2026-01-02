@@ -18,14 +18,6 @@
 
 </div>
 
----
-
-<!-- 📊 GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveedAhmeds&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
 <!-- 🌀 Footer Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
