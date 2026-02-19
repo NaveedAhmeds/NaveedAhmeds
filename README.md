@@ -1,24 +1,38 @@
-<!-- 💫 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&color=58A6FF&lines=Software+Engineer+%26+AI+Enthusiast;Building+Intelligent+Digital+Experiences..." alt="Typing Animation"/>
-</h1>
-
-<!-- 💻 Skills Section -->
-<div align="center">
-
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" height="50"/>
-  </p>
-
-  <h3>Programming & AI</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,c,cpp,python,java,javascript" height="50"/>
-  </p>
-
-</div>
-
-<!-- 🌀 Footer Animation -->
+<h1 align="center">Naveed Ahmed Syed</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  Software Engineer · ML & Systems
 </p>
+
+<p align="center">
+  Backend‑leaning engineer working with <strong>Python</strong>, <strong>C++</strong>, <strong>Swift</strong>, and modern web using <strong>React</strong> + <strong>Next.js</strong>.
+</p>
+
+---
+
+<p align="center"><strong>Core Stack</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>ML / Vision</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,swift,kotlin" height="28" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs" height="28" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" height="28" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### About
+
+- Interested in **production ML**, **performance‑minded backend work**, and **clean UI systems**.  
+- Most active in repos around **ML experiments**, **QA / automation tooling**, and **Next.js apps**.
