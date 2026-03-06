@@ -1,7 +1,7 @@
 <h1 align="center">Naveed Ahmed Syed</h1>
 
 <p align="center">
-  Software Engineer · Backend · QA Automation · ML
+  Software Engineer · iOS Development · Backend Systems · Test Automation · Machine Learning
 </p>
 
 <br/>
@@ -10,24 +10,27 @@
   <tr>
     <td align="center">
       <sub><b>Languages</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,python,swift,js,c&theme=dark&perline=5" height="40" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,swift,js&theme=dark&perline=5" height="40" />
     </td>
-    <td align="center">
-      <sub><b> Web & Backend</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,express,flask&theme=dark&perline=4" height="40" />
-    </td>
-    <td align="center">
-      <sub><b>ML / Vision</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark&perline=3" height="40" />
-    </td>
-    <td align="center">
-      <sub><b>Data & DevOps</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws&theme=dark&perline=5" height="40" />
-    </td>
-    <td align="center">
-      <sub><b> QA & Automation</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git&theme=dark&perline=3" height="40" />
-    </td>
+<td align="center">
+  <sub><b>WEB</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask&theme=dark&perline=4" height="40" />
+</td>
+
+<td align="center">
+  <sub><b>Machine Learning</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=3" height="40" />
+</td>
+
+<td align="center">
+  <sub><b>Data & Cloud</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws&theme=dark&perline=4" height="40" />
+</td>
+
+<td align="center">
+  <sub><b>Automation & CI/CD</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins,githubactions&theme=dark&perline=3" height="40" />
+</td>
   </tr>
 </table>
 
