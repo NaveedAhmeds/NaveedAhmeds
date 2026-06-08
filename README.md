@@ -1,11 +1,3 @@
-<h1 align="center">Naveed Ahmed Syed</h1>
-
-<p align="center">
-  Software Engineer · iOS Development · Backend Systems · Test Automation · Machine Learning
-</p>
-
-<br/>
-
 <table align="center" border="0" cellspacing="0" cellpadding="14">
   <tr>
     <td align="center">
