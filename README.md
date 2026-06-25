@@ -2,13 +2,8 @@
   <tr>
     <td align="center">
       <sub><b>Languages</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,python,swift,js&theme=dark&perline=5" height="40" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,swift&theme=dark&perline=5" height="40" />
     </td>
-<td align="center">
-  <sub><b>WEB</b></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask&theme=dark&perline=4" height="40" />
-</td>
-
 <td align="center">
   <sub><b>Machine Learning</b></sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=3" height="40" />
@@ -17,11 +12,6 @@
 <td align="center">
   <sub><b>Data & Cloud</b></sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws&theme=dark&perline=4" height="40" />
-</td>
-
-<td align="center">
-  <sub><b>Automation & CI/CD</b></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=selenium,jenkins,githubactions&theme=dark&perline=3" height="40" />
 </td>
   </tr>
 </table>
